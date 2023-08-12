@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+      {
+        "source": {
+          "id": "australian-financial-review",
+          "name": "Australian Financial Review"
+        },
+        "author": "Will Macpherson",
+        "title": "MCC apologises to Australia after run-in with members",
+        "description": "The Australian cricket team have requested that Lord’s investigate the incident as a febrile atmosphere developed on the final day of the second Ashes Test.",
+        "url": "http://www.afr.com/world/europe/mcc-apologises-to-australian-team-after-altercation-with-members-20230703-p5dl88",
+        "urlToImage": "https://static.ffx.io/images/$zoom_0.4838%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_635%2C$y_42/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/40c4065403d4858898ec8c76b158eecc8b868445",
+        "publishedAt": "2023-07-02T17:13:16Z",
+        "content": "London | The Marylebone Cricket Club (MCC) has apologised unreservedly to the Australian team and are investigating alleged verbal abuse and physical contact from their members as the teams left the … [+1028 chars]"
+      },
+      {
+        "source": {
+          "id": "talksport",
+          "name": "TalkSport"
+        },
+        "author": "Callum Vurley",
+        "title": "Australia demand MCC investigate incidents involving Ashes spectators in Lord’s Long Room with Usman K...",
+        "description": "Cricket Australian management has demanded Marylebone Cricket Club (MCC) investigate several incidents involving members and players. Usman Khawaja and David Warner were involved in altercations in…",
+        "url": "https://talksport.com/sport/cricket/1485865/australia-mcc-investigate-ashes-spectators-lords-usman-khawaja-david-warner/",
+        "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/07/VideoScreenshot-1longroom-TwitterSearchTwitter-013.png?strip=all&quality=100&w=1280&h=720&crop=1",
+        "publishedAt": "2023-07-02T14:36:43Z",
+        "content": "Cricket Australian management has demanded Marylebone Cricket Club (MCC) investigate several incidents involving members and players.\r\nUsman Khawaja and David Warner were involved in altercations in … [+1792 chars]"
+      },
+      {
+        "source": {
+          "id": "news-com-au",
+          "name": "News.com.au"
+        },
+        "author": "Jai Bednall",
+        "title": "Stump mic picks up wild Broad sledge",
+        "description": "Trevor Chappell has some competition for the most controversial underarm throw in cricket history.",
+        "url": "https://www.news.com.au/sport/cricket/stump-mic-picks-up-wild-stuart-broad-sledge-at-alex-carey/news-story/0833de8a4f2ed0ae07fd0f5b715b3d3b",
+        "urlToImage": "https://content.api.news/v3/images/bin/92072d2e01ef46b82ee34a255aa3bf10",
+        "publishedAt": "2023-07-02T13:15:00Z",
+        "content": "Trevor Chappell has some competition for the most controversial underarm throw in cricket history.\r\nJust when you thought this Ashes series couldn’t get any spicier, Jonny Bairstow wandered out of hi… [+2098 chars]"
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+        "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+        "publishedAt": "2020-04-27T11:41:47Z",
+        "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+        "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+        "publishedAt": "2020-03-30T15:26:05Z",
+        "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+      }
+    ]
+  }
